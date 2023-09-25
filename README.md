@@ -1,5 +1,9 @@
 # IDS-706-Mini_Proj4 GitHub Actions Matrix Build for Multiple Python Versions Requirements
 
+[![Matrix Testing](https://github.com/nogibjj/Week4_Mini_Project_Ayush/actions/workflows/matrix.yml/badge.svg)](https://github.com/nogibjj/Week4_Mini_Project_Ayush/actions/workflows/matrix.yml)
+
+[![Test](https://github.com/nogibjj/Week4_Mini_Project_Ayush/actions/workflows/test.yml/badge.svg)](https://github.com/nogibjj/Week4_Mini_Project_Ayush/actions/workflows/test.yml)
+
 The repository contains the files utilized for Mini-Project 4 which includes:
 
 1. Makefile
