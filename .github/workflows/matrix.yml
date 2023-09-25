@@ -1,4 +1,4 @@
-name: Stats CI
+name: Matrix Testing
 on:
   push:
     branches: [ "main" ]
