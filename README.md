@@ -41,13 +41,3 @@ Used for creating and storing GitHub Actions workflows. GitHub Actions is a cont
 
 ![Visualization using Bar Chart](https://github.com/nogibjj/IDS_706_ag758_proj2/blob/main/GitHub.png)
 
-
-
-
-
-
-
-
-
-
-[![Stats CI](https://github.com/nogibjj/IDS_706_ag758_proj2/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/IDS_706_ag758_proj2/actions/workflows/cicd.yml)
