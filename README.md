@@ -1,6 +1,7 @@
-# IDS-706-Mini_Proj3
+# IDS-706-Mini_Proj4 GitHub Actions Matrix Build for Multiple Python Versions Requirements
 
-The repository contains the files utilized for Mini-Project 3 which includes:
+The repository contains the files utilized for Mini-Project 4 which includes:
+
 1. Makefile
 2. Requirements.txt
 3. Python Files
@@ -9,7 +10,7 @@ The repository contains the files utilized for Mini-Project 3 which includes:
 6. Summary_statistics.md 
 
 ## Purpose of the Project: 
-The aim of the project is to utilize Polars in Python for descriptive statistics. This library was used to read the dataset in CSV file. I used the 'forbes_2022_billionaires.csv' to analyze the average, median 'FinalWorth' of billionaires and its standard deviation in various countries. Bar Chart was used from the Plotly library to visualize the output from this analysis. 
+The main target of this project is to set up a GitHub Actions workflow. I have tested across a matrix of 3 different Python versions.  I used the 'forbes_2022_billionaires.csv' to analyze the average, median 'FinalWorth' of billionaires and its standard deviation in various countries. Bar Chart was used from the Plotly library to visualize the output from this analysis. 
 
 ## Code Description: 
 1. stats_descriptive.py - A python file that uses 3 functions to calculate mean, median and standard deviation
