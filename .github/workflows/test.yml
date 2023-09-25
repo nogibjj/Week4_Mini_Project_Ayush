@@ -2,7 +2,7 @@ name: Test
 
 on:
   workflow_run:
-    workflows: ["Stats CI"]
+    workflows: ["Matrix Testing"]
     branches: ["main"]
     types: 
       - completed
