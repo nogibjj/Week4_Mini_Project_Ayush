@@ -2,7 +2,7 @@ name: Test
 
 on:
   workflow_run:
-    workflows: ["Install"]
+    workflows: ["Stats CI"]
     branches: ["main"]
     types: 
       - completed
